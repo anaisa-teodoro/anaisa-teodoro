@@ -1,4 +1,7 @@
-<img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/790ebddb-a3a5-4440-88af-44a852f3c24c" alt="Banner readme" width="70%">
+<p align="center">
+    <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/790ebddb-a3a5-4440-88af-44a852f3c24c" alt="Banner readme" style="width:70%;">
+</p>
+
 
 - 👋 Hi, I’m @anaisa-teodoro
 - 👀 I’m interested in programming and reading books.
