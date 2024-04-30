@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/790ebddb-a3a5-4440-88af-44a852f3c24c" alt="Banner readme" style="width:70%;">
+    <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/9aeaeec5-8070-4a08-b1d9-a01ec01f3676" alt="Banner readme" style="width:70%;">
 </p>
 
 
