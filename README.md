@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/9aeaeec5-8070-4a08-b1d9-a01ec01f3676" alt="Banner readme" style="width:70%;">
+    <img src="https://github.com/anaisa-teodoro/projeto-back-end-one-version1/assets/159851571/4228d9dd-c33a-4dbf-8b07-e281edc58f7f" alt="Banner readme" style="width:70%;">
+    
 </p>
 
 
