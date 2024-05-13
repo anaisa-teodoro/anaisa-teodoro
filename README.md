@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/anaisa-teodoro/projeto-I-teste/assets/159851571/e1922b30-b786-4139-99c6-d16286fea0d0" alt="vscode">
+  <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/eda1b7df-9be9-49c8-912c-a30e3c290768" alt="vscode">
 </p>
-
-
 
 - 👋 Hi, I’m @anaisa-teodoro
 - 👀 I’m interested in programming and reading books.
