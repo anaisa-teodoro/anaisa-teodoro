@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/anaisa-teodoro/projeto-back-end-one-version1/assets/159851571/4228d9dd-c33a-4dbf-8b07-e281edc58f7f" alt="Banner readme" style="width:70%;">
-    
 </p>
+
 
 
 - 👋 Hi, I’m @anaisa-teodoro
