@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anaisa-teodoro/modulo1/assets/159851571/eda1b7df-9be9-49c8-912c-a30e3c290768" alt="vscode">
+  <img src="https://github.com/anaisa-teodoro/modulo2/assets/159851571/f00fa82c-816d-4698-a49a-83fa6031bcc9" alt="vscode">
 </p>
 
 - 👋 Hi, I’m @anaisa-teodoro
