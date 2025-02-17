@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/anaisa-teodoro/modulo2/assets/159851571/f00fa82c-816d-4698-a49a-83fa6031bcc9" alt="vscode">
-</p>
-
 - 👋 Hi, I’m @anaisa-teodoro
 - 👀 I’m interested in programming and reading books.
 - 🌱 I’m currently learning various programming languages and improving my coding skills.
